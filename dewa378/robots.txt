@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://c4a.cl/dewa378/sitemap.xml
