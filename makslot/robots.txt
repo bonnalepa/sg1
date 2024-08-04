@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://c4a.cl/makslot/sitemap.xml
